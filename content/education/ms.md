@@ -14,6 +14,6 @@ weight: 301
 - Data Management for Analytics
 - Data Mining for Engineering
 - Machine Learning for Engineers
-- AWS Cloud Architecting
+- Business Intelligence
 - Data Warehousing and Data Integration
 - Deterministic Operations Research

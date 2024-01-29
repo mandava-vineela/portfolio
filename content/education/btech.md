@@ -1,7 +1,7 @@
 ---
 title: "B.Tech in Computer Science & Engineering"
-description: "JNTU Anantapur"
-dateString: August 2016 - April 2020
+description: "Gitam University"
+dateString: june 2017 - April 2021
 draft: false
 tags: []
 showToc: false
@@ -14,4 +14,8 @@ weight: 302
 - Database Management System
 - Problem Solving with C
 - Economics for Engineers
+- Computer Networking
+- Machine Learning
+- Big Data 
+- Cryptography
 - Industrial Management & Entrepreneurship
